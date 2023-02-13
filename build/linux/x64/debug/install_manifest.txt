@@ -1,0 +1,12 @@
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/flutter_inherited_widget_notes_app
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/images/cato.png
+/home/mohdnasir/FlutterProjects/flutter_inherited_widget_notes_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
